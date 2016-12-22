@@ -62,6 +62,3 @@ Data used:
 	that it was working correctly.
 	After this larger numbers were used.
 	Then finally random large numbers were used from 0 to 100 using srand() and Time 	to seed srand(). These were then added to the array.
-
-Questions:
-	Email: k_cooper7@post.massbay.edu or cooperkyle866@gmail.com
