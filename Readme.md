@@ -43,7 +43,7 @@ After Running:
 	is divisible by the number of processors or it will not work. 
 
 Environment used:
-	TO program Open MPI 1.6.5 was used along with C. This was all done in Linux Mint 
+	Open MPI 1.6.5 was used along with C. This was all done in Linux Mint 
 	16 32-bit with the Cinnamon GUI.
 	The standard terminal was used (Bash).
 	GEdit was also used to actual write the program.
