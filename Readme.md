@@ -4,8 +4,7 @@ Author:
 	Kyle Cooper
 
 Purpose:
-
-	This program scatters an array with n number of ints among n number of processors
+This program scatters an array with n number of ints among n number of processors
 then all of the slave (and master) process calculate the total of their sub array and then
 "Gather" them back to the master array to do the final sum and print out the time it took to 
 complete
